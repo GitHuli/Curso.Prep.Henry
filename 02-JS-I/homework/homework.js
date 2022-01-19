@@ -48,7 +48,7 @@ function resta(x, y) {
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  var multiplica = x + y;
+  var multiplica = x * y;
   return multiplica;
 }
 
@@ -116,7 +116,7 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-Math.pow(num,2)
+  
 }
 
 function elevarAlCubo(num) {
